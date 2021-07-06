@@ -17,7 +17,7 @@ A Todo List CLI app that allows users to view, add or remove a particular task f
 
 _Note: Must have Ruby installed_
 
-**To get the available commands run:
+**To get the available commands run:**
 
 ```> ruby main.rb -h```
 
@@ -25,7 +25,7 @@ _Note: Must have Ruby installed_
 ![Help command screenshot](https://i.imgur.com/wuzbOYN.png)
 
 
-**To create a task, run:
+**To create a task, run:**
 
 ```> ruby main.rb -c "Take my dog on a walk"```
 
@@ -33,7 +33,7 @@ _Note: Must have Ruby installed_
 ![Create command screenshot](https://i.imgur.com/6wGaZts.png)
 
 
-**To start a task, run:
+**To start a task, run:**
 
 ```> ruby main.rb -s 1```
 
@@ -41,7 +41,7 @@ _Note: Must have Ruby installed_
 ![Start command screenshot](https://i.imgur.com/fORGKKG.png)
 
 
-**To mark a task as done, run:
+**To mark a task as done, run:**
 
 ```> ruby main.rb -d 1```
 
@@ -49,7 +49,7 @@ _Note: Must have Ruby installed_
 ![Done command screenshot](https://i.imgur.com/CtfZbNc.png)
 
 
-**To remove a task, run:
+**To remove a task, run:**
 
 ```> ruby main.rb -r 1```
 
@@ -57,7 +57,7 @@ _Note: Must have Ruby installed_
 ![Remove command screenshot](https://i.imgur.com/JT94drA.png)
 
 
-**To view all tasks, run:
+**To view all tasks, run:**
 
 ```> ruby main.rb -v```
 
