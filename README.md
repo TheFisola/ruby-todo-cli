@@ -1,4 +1,4 @@
-# ruby-todo-cli
+# Ruby Todo CLI
 A Todo CLI app written in Ruby
 
 ### Rough Idea
